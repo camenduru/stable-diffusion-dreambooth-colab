@@ -8,6 +8,9 @@
 - Open colab and add instance_prompt: parkminyoung click play button
 - convert to webui download parkminyoung.ckpt and use with your favorite webui like https://github.com/AUTOMATIC1111/stable-diffusion-webui or https://camenduru.itch.io/stable-diffusion-webui (same but for beginners)
 
+## How to Use (Youtube Video)
+[![How to Use Stable Diffusion Webui Colab](https://i.imgur.com/Bth3B2R.jpg)](https://www.youtube.com/watch?v=5dK1altO4Qw)
+
 train_dreambooth.py from https://github.com/huggingface/diffusers/tree/main/examples/dreambooth
 
 convert_diffusers_to_sd.py from https://gist.github.com/jachiam/8a5c0b607e38fcc585168b90c686eb05
