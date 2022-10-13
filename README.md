@@ -9,11 +9,11 @@
 ## How to Use (Youtube Video)
 [![How To Use Stable Diffusion Dreambooth Colab](https://i.imgur.com/fDgkaP0.jpg)](https://www.youtube.com/watch?v=5dK1altO4Qw)
 
+## Licenses
+
 train_dreambooth.py from https://github.com/huggingface/diffusers/tree/main/examples/dreambooth
 
 convert_diffusers_to_sd.py from https://gist.github.com/jachiam/8a5c0b607e38fcc585168b90c686eb05
-
-## Licenses
 
 facebookresearch/xformers
 https://github.com/facebookresearch/xformers/blob/main/LICENSE
