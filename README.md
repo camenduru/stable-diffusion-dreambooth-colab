@@ -6,6 +6,7 @@
 - I will use Park Min-young but the prompt keyword will be parkminyoung
 - Create a new drive folder MyDrive/AI/training/parkminyoung add photos
 - Open colab and add instance_prompt: parkminyoung click play button
+- convert to webui download parkminyoung.ckpt and use with your favorite webui like https://camenduru.itch.io/stable-diffusion-webui
 
 train_dreambooth.py from https://github.com/huggingface/diffusers/tree/main/examples/dreambooth
 
