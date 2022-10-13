@@ -25,3 +25,4 @@ https://github.com/metrolobo/xformers_wheels/releases
 
 huggingface/diffusers
 https://github.com/huggingface/diffusers/blob/main/LICENSE
+https://huggingface.co/spaces/CompVis/stable-diffusion-license
