@@ -3,7 +3,7 @@
 - Example I will try train streamer hachubby 
 - I will use Park Min-young but the prompt keyword will be parkminyoung
 - Create a new drive folder MyDrive/AI/training/parkminyoung add photos
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/dreambooth-colab/blob/main/dreambooth_colab.ipynb) and add instance_prompt: parkminyoung click play button
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-dreambooth-colab/blob/main/dreambooth_colab.ipynb) and add instance_prompt: parkminyoung click play button
 - convert to webui download parkminyoung.ckpt and use with your favorite webui like https://github.com/AUTOMATIC1111/stable-diffusion-webui or https://camenduru.itch.io/stable-diffusion-webui (same but for beginners)
 
 ## How to Use (Youtube Video)
