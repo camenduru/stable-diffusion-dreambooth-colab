@@ -7,7 +7,7 @@
 - convert to webui download parkminyoung.ckpt and use with your favorite webui like https://github.com/AUTOMATIC1111/stable-diffusion-webui or https://camenduru.itch.io/stable-diffusion-webui (same but for beginners)
 
 ## How to Use (Youtube Video)
-[![How To Use Stable Diffusion Dreambooth Colab](https://i.imgur.com/MzWb6gh.jpg)](https://www.youtube.com/watch?v=5dK1altO4Qw)
+[![How To Use Stable Diffusion Dreambooth Colab](https://i.imgur.com/fDgkaP0.jpg)](https://www.youtube.com/watch?v=5dK1altO4Qw)
 
 train_dreambooth.py from https://github.com/huggingface/diffusers/tree/main/examples/dreambooth
 
