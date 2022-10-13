@@ -1,6 +1,6 @@
 ## How To Use
 - Find someone famous looks like you in the stable diffusion universe (find with: https://starbyface.com) (search with: https://rom1504.github.io/clip-retrieval)
-- I will try train streamer hachubby 
+- Example I will try train streamer hachubby 
 - I will use Park Min-young but the prompt keyword will be parkminyoung
 - Create a new drive folder MyDrive/AI/training/parkminyoung add photos
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/dreambooth-colab/blob/main/dreambooth_colab.ipynb) and add instance_prompt: parkminyoung click play button
