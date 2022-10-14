@@ -6,7 +6,7 @@
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-dreambooth-colab/blob/main/stable-diffusion-dreambooth_colab.ipynb) and add instance_prompt: parkminyoung click play button
 - convert to webui download parkminyoung.ckpt and use with your favorite webui like https://github.com/AUTOMATIC1111/stable-diffusion-webui or https://camenduru.itch.io/stable-diffusion-webui (same but for beginners)
 
-## How to Use (Youtube Video)
+## Example Project (Youtube Video)
 [![How To Use Stable Diffusion Dreambooth Colab](https://i.imgur.com/fDgkaP0.jpg)](https://www.youtube.com/watch?v=5dK1altO4Qw)
 
 ## Licenses
