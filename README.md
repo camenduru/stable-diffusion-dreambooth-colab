@@ -1,3 +1,5 @@
+🐣 Please follow me for new updates https://twitter.com/camenduru
+
 ## How To Use
 - Find someone famous looks like you in the stable diffusion universe (find with: https://starbyface.com) (search with: https://rom1504.github.io/clip-retrieval)
 - Example I will try train streamer hachubby 
