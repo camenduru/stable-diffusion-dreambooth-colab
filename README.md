@@ -1,5 +1,6 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
+🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 ## How To Use
 - Find someone famous looks like you in the stable diffusion universe (find with: https://starbyface.com) (search with: https://rom1504.github.io/clip-retrieval)
