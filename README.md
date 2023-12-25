@@ -13,6 +13,9 @@
 ## Example Project (Youtube Video)
 [![How To Use Stable Diffusion Dreambooth Colab](https://i.imgur.com/fDgkaP0.jpg)](https://www.youtube.com/watch?v=5dK1altO4Qw)
 
+## Paper
+https://arxiv.org/abs/2208.12242
+
 ## Licenses
 
 train_dreambooth.py from https://github.com/huggingface/diffusers/tree/main/examples/dreambooth
